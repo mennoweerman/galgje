@@ -8,7 +8,7 @@
 
 ## Score
 
-![gallow](./images/2.png)
+![gallow](./images/4.png)
 
 ## Beurten
 
@@ -19,5 +19,7 @@ D
 A
 
 N
+
+M
 
 G
